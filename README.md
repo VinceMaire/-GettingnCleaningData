@@ -1,10 +1,10 @@
-# -GettingnCleaningData
+# -Getting n Cleaning Data
 
 The is splitted and commented regarding questions.
 
 
 #***********************************************************************************
-# 1. Merge the training and the test sets to create one data set.
+## 1. Merge the training and the test sets to create one data set.
 #***********************************************************************************
 
 Download data
